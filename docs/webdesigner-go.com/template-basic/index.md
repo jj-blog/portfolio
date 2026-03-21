@@ -1,5 +1,4 @@
 # ポートフォリオ無料HTMLテンプレート Fancybox化
-<br><br>
 
 「未経験からWebデザイナーへ！」さん配布の無料HTMLテンプレートをFancybox化する方法です
 <br><br>
