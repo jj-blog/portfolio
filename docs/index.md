@@ -1,3 +1,3 @@
 # じゆうじざい GitHub blog
 
-[じゆうじざい](https://www.jiyuujizai.com)
+[じゆうじざい サービスサイト](https://www.jiyuujizai.com)
