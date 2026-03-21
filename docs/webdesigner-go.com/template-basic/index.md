@@ -20,8 +20,8 @@ https://fancyapps.com/fancybox/
 <br><br>
 
 設置したポートフォリオはこちら↓
-- [オリジナルのウェブサイト](https://jj-blog.github.io/portfolio/webdesigner-go.com/template-basic/origin/)
-- [カスタマイズしたウェブサイト](https://jj-blog.github.io/portfolio/webdesigner-go.com/template-basic/custom/)
+- [オリジナルのポートフォリオ（ウェブサイト）](https://jj-blog.github.io/portfolio/webdesigner-go.com/template-basic/origin/)
+- [カスタマイズしたポートフォリオ（ウェブサイト）](https://jj-blog.github.io/portfolio/webdesigner-go.com/template-basic/custom/)
 <br><br>
 
 これより、作業手順になります
@@ -308,8 +308,8 @@ https://www.netlify.com/pricing/
 
 
 設置したポートフォリオはこちら↓
-- [オリジナルのウェブサイト](https://jj-blog.github.io/portfolio/webdesigner-go.com/template-basic/origin/)
-- [カスタマイズしたウェブサイト](https://jj-blog.github.io/portfolio/webdesigner-go.com/template-basic/custom/)
+- [オリジナルのポートフォリオ（ウェブサイト）](https://jj-blog.github.io/portfolio/webdesigner-go.com/template-basic/origin/)
+- [カスタマイズしたポートフォリオ（ウェブサイト）](https://jj-blog.github.io/portfolio/webdesigner-go.com/template-basic/custom/)
 <br><br><br>
 
 
