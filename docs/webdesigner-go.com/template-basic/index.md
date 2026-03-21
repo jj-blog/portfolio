@@ -6,7 +6,7 @@
 
 【無料】ポートフォリオHTMLテンプレート（ベーシック）
 <br>
-https://webdesigner-go.com/template/portfolio-02/
+[https://webdesigner-go.com/template/portfolio-02/](https://webdesigner-go.com/template/portfolio-02/)
 <br><br>
 
 主に［Works］セクション内のリンクをページ遷移しないようにカスタマイズする方法です
@@ -16,7 +16,7 @@ https://webdesigner-go.com/template/portfolio-02/
 
 ※ Fancybox（jQueryプラグイン）はこちらです
 <br>
-https://fancyapps.com/fancybox/
+[https://fancyapps.com/fancybox/](https://fancyapps.com/fancybox/)
 <br><br>
 
 設置したポートフォリオはこちら↓
@@ -44,7 +44,7 @@ https://fancyapps.com/fancybox/
 <br>
 【無料】ポートフォリオHTMLテンプレート（ベーシック）
 <br>
-https://webdesigner-go.com/template/portfolio-02/
+[https://webdesigner-go.com/template/portfolio-02/](https://webdesigner-go.com/template/portfolio-02/)
 <br>
 ページ上部にある「ダウンロード」をクリックしてzipファイルをダウンロードします
 <br><br><br>
@@ -298,7 +298,7 @@ works-template.htmlをiframeで開くようにしたので
 
 今後、無料料で商用利用の必要が出てきたら「Netlify」も選択肢として検討しようかと思っています
 <br>
-https://www.netlify.com/pricing/
+[https://www.netlify.com/pricing/](https://www.netlify.com/pricing/)
 <br><br>
 
 ※ 「GitHub Pages」に関する説明は省略しています
@@ -319,7 +319,7 @@ https://www.netlify.com/pricing/
 <br>
 【無料】ポートフォリオHTMLテンプレート（ベーシック）
 <br>
-https://webdesigner-go.com/template/portfolio-02/
+[https://webdesigner-go.com/template/portfolio-02/](https://webdesigner-go.com/template/portfolio-02/)
 
 <br><br>
 <br><br>
