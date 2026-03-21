@@ -1,11 +1,15 @@
-「未経験からWebデザイナーへ！」さんが配布されている無料HTMLテンプレートを設置しました
+# ポートフォリオ無料HTMLテンプレート Fancybox化
 <br><br>
+
+「未経験からWebデザイナーへ！」さん配布の無料HTMLテンプレートをFancybox化する方法です
+<br><br>
+
 【無料】ポートフォリオHTMLテンプレート（ベーシック）
 <br>
 https://webdesigner-go.com/template/portfolio-02/
 <br><br>
 
-［Works］セクション内のリンクはページ遷移しないようにカスタマイズしました
+主に［Works］セクション内のリンクをページ遷移しないようにカスタマイズする方法です
 <br>
 具体的には Fancybox(jQueryプラグイン) を使って他ページを iframe化させています
 <br><br>
@@ -20,7 +24,7 @@ https://fancyapps.com/fancybox/
 - [カスタマイズしたウェブサイト](https://jj-blog.github.io/portfolio/webdesigner-go.com/template-basic/custom/)
 <br><br>
 
-後にカスタマイズする際に備えて、作業手順を残しておきます
+これより、作業手順になります
 <br><br>
 
 # 設置手順の目次
